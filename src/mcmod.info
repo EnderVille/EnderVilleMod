@@ -1,0 +1,20 @@
+[
+{
+  "modid": "EnderVille",
+  "name": "EnderVille Mod",
+  "description": "A Mod made for the servers @ enderville.com!",
+  "version": "@VERSION@",
+  "url": "http://www.enderville.com",
+  "updateUrl": "",
+  "authorList": [
+    "DylanGore"
+  ],
+  "credits": "By DylanGore",
+  "logoFile": "assets/EnderVille/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

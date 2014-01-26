@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: com.enderville.mod.asm.EnderVilleLoadingPlugin
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+
